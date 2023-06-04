@@ -44,4 +44,43 @@ hide: false
 
 ---
 
+
+---
+layout: center
+class: text-left
+src: pages/relational_db.md
+hide: false
+
+---
+
+
+---
+layout: center
+class: text-left
+src: pages/vector_db.md
+hide: false
+
+---
+
+---
+layout: center
+class: text-left
+src: pages/vector_vs_relational.md
+hide: false
+
+---
+---
+layout: center
+class: text-left
+src: pages/applications.md
+hide: false
+
+---
+
+---
+layout: image
+image: /pytania.jpg
+class: text-left
+hide: false
+
 ---
