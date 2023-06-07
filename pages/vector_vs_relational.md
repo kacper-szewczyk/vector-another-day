@@ -1,21 +1,44 @@
 
-# Vector Databases
+# Relational Database
 
-<div v-click>
-A vector database is a specialized type of database that is designed to efficiently store, manage, and process high-dimensional vector data. It is specifically optimized for working with data that can be represented as vectors, such as numerical feature vectors, embeddings, or spatial coordinates.
+<div v-click="1" style="margin-top: 16px">
+
+### Add new element
+Time complexity O(1) + time to generate index
+
 </div>
 
+<div v-click="3" style="margin-top: 16px">
 
----
+### Search element
+Time complexity O(n) or O(log n) with index, but match is exact
 
-# Key features
-
-<div v-click>
-- optimized storage
 </div>
-<div v-click="2">
-- retrieval and processing of high-dimensional vector data
+<div v-click="5" style="margin-top: 16px">
+
+### Delete element
+Time complexity O(n) or O(log n) with index
 </div>
-<div v-click="3">
-- enabling efficient analysis and manipulation of vector-based information
+
+::right::
+
+# Vector Database
+
+<div v-click="2" style="margin-top: 16px">
+
+### Add new element
+Time complexity O(1)
+
+</div>
+
+<div v-click="4" style="margin-top: 16px">
+
+### Search element
+Time complexity O(log n), returning approximate match
+</div>
+
+<div v-click="6" style="margin-top: 16px">
+
+### Delete element
+Time complexity O(log n)
 </div>

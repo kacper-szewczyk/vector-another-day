@@ -35,8 +35,6 @@ Relational databases use SQL as the standard language for defining, manipulating
 
 # Add new element to relational database
 
-The time complexity of inserting data into a database can vary depending on several factors, including the database system being used, the table structure, the indexing strategy, and the volume of data being inserted. 
-
 Inserting a single row into a table typically has a time complexity of O(1) or constant time. The database engine performs necessary validations, checks constraints, and writes the data to the appropriate location in the database.
 
 Additionally, the time complexity of an insert operation may be influenced by other factors, such as the presence of triggers, indexes, constraints, and concurrent operations on the database.
@@ -45,10 +43,15 @@ Additionally, the time complexity of an insert operation may be influenced by ot
 
 # Search element
 
+In the absence of any indexes, the time complexity of searching for an element in a table without any specific search conditions (i.e., retrieving all rows) is generally considered to be linear or O(n), where n is the number of rows in the table. This is because the database system needs to scan the entire table to find the desired rows.
+
 --- 
 
 # Delete element
 
+In the absence of any indexes, removing an element from a table typically requires searching for the element, which has a time complexity of O(n), where n is the number of rows in the table. This is because the database system needs to scan the table to find the specific row or rows that match the removal condition.
+
+Overall, the time complexity of removing an element from a relational database can range from O(n) to O(log n) depending on various factors such as the presence of indexes, the search conditions, and the complexity of related operations. 
 
 --- 
 
