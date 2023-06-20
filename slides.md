@@ -28,10 +28,37 @@ css: unocss
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
 
+
+---
+layout: image-right
+class: text-left
+image: /judi.webp
+src: pages/mission.md
+hide: false
+
+---
+
+---
+layout: image-right
+class: text-left
+image: /connery.webp
+src: pages/postgre.md
+hide: false
+
+---
+
 ---
 layout: center
 class: text-left
-src: pages/intro.md
+src: pages/postgre_result.md
+hide: false
+
+---
+
+---
+layout: center
+class: text-left
+src: pages/intro_vector.md
 hide: false
 
 ---
@@ -44,6 +71,14 @@ hide: false
 
 ---
 
+
+---
+layout: center
+class: text-left
+src: pages/complexity.md
+hide: false
+
+---
 
 ---
 layout: center
@@ -69,6 +104,7 @@ src: pages/vector_vs_relational.md
 hide: false
 
 ---
+
 ---
 layout: center
 class: text-left
@@ -76,6 +112,15 @@ src: pages/applications.md
 hide: false
 
 ---
+
+---
+layout: image
+class: text-left
+src: pages/sources.md
+hide: false
+
+---
+
 
 ---
 layout: image
