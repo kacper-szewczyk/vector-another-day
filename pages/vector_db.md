@@ -2,7 +2,6 @@
 # Vector Databases
 
 
-
 ---
 
 # Add element

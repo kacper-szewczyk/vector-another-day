@@ -64,35 +64,9 @@ hide: false
 ---
 
 ---
-layout: image-left
-image: /Kacper.jpg
-src: pages/about.md
-hide: false
-
----
-
-
----
 layout: center
 class: text-left
 src: pages/complexity.md
-hide: false
-
----
-
----
-layout: center
-class: text-left
-src: pages/relational_db.md
-hide: false
-
----
-
-
----
-layout: center
-class: text-left
-src: pages/vector_db.md
 hide: false
 
 ---
@@ -106,9 +80,27 @@ hide: false
 ---
 
 ---
+layout: image
+class: text-left
+image: bg.jpg
+src: pages/coding.md
+hide: false
+
+---
+
+---
 layout: center
 class: text-left
 src: pages/applications.md
+hide: false
+
+---
+
+
+---
+layout: image
+class: text-left
+src: pages/takeaways.md
 hide: false
 
 ---
@@ -121,6 +113,14 @@ hide: false
 
 ---
 
+
+---
+layout: image-left
+image: /Kacper.jpg
+src: pages/about.md
+hide: false
+
+---
 
 ---
 layout: image

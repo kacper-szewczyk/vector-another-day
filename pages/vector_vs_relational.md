@@ -4,7 +4,7 @@
 <div v-click="1" style="margin-top: 16px">
 
 ### Add new element
-Time complexity O(1) + time to generate index
+Time complexity O(1) <spam style="font-weight: bold" v-click="7">+ time to generate index</spam>
 
 </div>
 
@@ -17,7 +17,7 @@ Time complexity O(n) or O(log n) with index, but match is exact
 <div v-click="5" style="margin-top: 16px">
 
 ### Delete element
-Time complexity O(n) or O(log n) with index
+Time complexity O(n) or O(log n) with index  
 </div>
 
 ::right::
