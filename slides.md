@@ -1,11 +1,9 @@
 ---
 # try also 'default' to start simple
 theme: seriph
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-background: /bg.jpg
+background: /kacper007.png
 # apply any windi css classes to the current slide
-class: "text-center"
+class: "image"
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
 # show line numbers in code blocks
@@ -20,9 +18,10 @@ drawings:
 transition: slide-left
 # use UnoCSS
 css: unocss
+
 ---
 
-# Vector another day
+
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
@@ -80,10 +79,16 @@ hide: false
 ---
 
 ---
+layout: center
+src: pages/coding_part.md
+hide: false
+
+---
+
+---
 layout: image
 class: text-left
-image: bg.jpg
-src: pages/coding.md
+image: skyfallq.jpg
 hide: false
 
 ---
@@ -124,7 +129,7 @@ hide: false
 
 ---
 layout: image
-image: /pytania.jpg
+image: /questions.gif
 class: text-left
 hide: false
 

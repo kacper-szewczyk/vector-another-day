@@ -2,23 +2,22 @@
 # Mission
 
 <div v-click>
-Wykonać projekt
+Create a project!
 </div>
 
 
 <div v-click="2">
-- Aplikacja webowa
+- Web application
 </div>
 
 <div v-click="3">
-- Zawiera bazę danych
+- With a database
 </div>
 
 <div v-click="4">
-- Działa szybko
+- Works fast
 </div>
 
-
 <div v-click="5">
-Czyli jak każda inna aplikacja webowa...
+So as any other web application...
 </div>

@@ -3,22 +3,12 @@
 
 # Vector Databases
 
-Zdjęcie: Jakiś bond, który jest na emeryturze/wakacjach
+<img src="bond-retirement.jpeg" style="width: 80%; margin: auto" v-click>
 
 ---
 
 # Vector Databases
-
-
-<div v-click>
-A vector database is a specialized type of database that is designed to efficiently store, manage, and process high-dimensional vector data. It is specifically optimized for working with data that can be represented as vectors, such as numerical feature vectors, embeddings, or spatial coordinates.
-</div>
-
-
----
-
-# Key features
-
+Key features
 <div v-click>
 - optimized storage
 </div>

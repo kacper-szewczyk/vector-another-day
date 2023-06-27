@@ -19,6 +19,6 @@
 
 <div v-click="5">
 
-### Let's add indexes
+### So ...let's add indexes
 
 </div>
