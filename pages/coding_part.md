@@ -1,11 +1,9 @@
 
-# What if... we would build Chat GPT?
+<img src="neo4j.jpg" style="width: 100%" v-click>
 
+---
 
-
-
-
-
+# Let's build... <span v-click> Chat GPT </span>
 
 
 ---
