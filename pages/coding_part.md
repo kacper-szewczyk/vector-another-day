@@ -17,6 +17,6 @@
 2. Find possible answers
 </div>
 <div v-click="1">
-3. Create nice answer
+3. Create unique human-like answer
 </div>
 
