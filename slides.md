@@ -10,7 +10,7 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## Vector another day
+  ## Jak stworzyć własny ChatGPT?
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -27,12 +27,19 @@ css: unocss
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
 
+---
+layout: image-left
+image: /Kacper.jpg
+src: pages/about.md
+hide: false
+
+---
 
 ---
 layout: image-right
 class: text-left
 image: /judi.webp
-src: pages/mission.md
+src: pages/tasks.md
 hide: false
 
 ---
@@ -101,7 +108,6 @@ hide: false
 
 ---
 
-
 ---
 layout: image
 class: text-left
@@ -114,15 +120,6 @@ hide: false
 layout: image
 class: text-left
 src: pages/sources.md
-hide: false
-
----
-
-
----
-layout: image-left
-image: /Kacper.jpg
-src: pages/about.md
 hide: false
 
 ---
