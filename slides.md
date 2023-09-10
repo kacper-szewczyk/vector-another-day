@@ -45,31 +45,6 @@ hide: false
 ---
 
 ---
-layout: image-right
-class: text-left
-image: /connery.webp
-src: pages/postgre.md
-hide: false
-
----
-
----
-layout: center
-class: text-left
-src: pages/postgre_result.md
-hide: false
-
----
-
----
-layout: center
-class: text-left
-src: pages/intro_vector.md
-hide: false
-
----
-
----
 layout: center
 class: text-left
 src: pages/complexity.md
@@ -77,17 +52,35 @@ hide: false
 
 ---
 
+
 ---
-layout: two-cols
+layout: center
 class: text-left
-src: pages/vector_vs_relational.md
+src: pages/choosing_db.md
 hide: false
 
 ---
 
 ---
 layout: center
-src: pages/coding_part.md
+class: text-left
+src: pages/choosing_vector.md
+hide: false
+
+---
+
+---
+layout: two-cols
+class: text-left
+src: pages/vector_vs_nosql_vs_relational.md
+hide: false
+
+---
+
+---
+layout: center
+class: text-left
+src: pages/data_storage_vector.md
 hide: false
 
 ---

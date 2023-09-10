@@ -1,5 +1,5 @@
 
-# Images used
+# Sources
 
 <div style="font-size: 12px">
 
@@ -14,5 +14,6 @@
 - https://thesunbreak.com/wp-content/uploads/2021/10/bond-25-B25_03001_RC2_rgb-1536x1024.jpg
 - https://s.yimg.com/ny/api/res/1.2/VcrXbgvXiLfJrWKJxJO0ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/
 - http://31.media.tumblr.com/6dd884141cd7354e7ab89b6f10b2f0f8/tumblr_inline_nxcfiaylkx1tcrqyq_500.gif
+- https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p
 
 </div>

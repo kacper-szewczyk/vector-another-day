@@ -3,9 +3,9 @@
 
 <div v-click>
 
-## $O$-Notation
+## Notacja $O$
 
-It is used to describe the upper bound of the complexity of an algorithm - the worst case scenario.
+Używana jest do opisu górnej granicy złożoności algorytmu - najgorszy możliwy przypadek.
 
 </div>
 
@@ -13,7 +13,7 @@ It is used to describe the upper bound of the complexity of an algorithm - the w
 
 ## $\Omega$-Notation
 
-It is used to describe the lower bound of the complexity of an algorithm - the best case scenario.
+Używana jest do opisu dolnej granicy złożoności algorytmu - najlepszy możliwy przypadek.
 
 </div>
 
@@ -21,7 +21,7 @@ It is used to describe the lower bound of the complexity of an algorithm - the b
 
 ## $\Theta$-Notation
 
-It is used to describe the average complexity of an algorithm - the average case scenario.
+Używana jest do opisu średniej złożoności algorytmu - optymalny scenariusz.
 
 </div>
 
