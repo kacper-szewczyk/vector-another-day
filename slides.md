@@ -1,7 +1,7 @@
 ---
 # try also 'default' to start simple
 theme: seriph
-background: /kacper007.png
+background: /ChatBG.png
 # apply any windi css classes to the current slide
 class: "image"
 # https://sli.dev/custom/highlighters.html
@@ -20,9 +20,11 @@ transition: slide-left
 css: unocss
 
 ---
+<div style="bottom: 16px; right: 16px; position: absolute">
 
+# Jak stworzyć własny ChatGPT?
 
-
+</div>
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
@@ -38,7 +40,7 @@ hide: false
 ---
 layout: image-right
 class: text-left
-image: /judi.webp
+image: /tasks.jpeg
 src: pages/tasks.md
 hide: false
 
@@ -88,7 +90,7 @@ hide: false
 ---
 layout: image
 class: text-left
-image: skyfallq.jpg
+image: bg.jpg
 hide: false
 
 ---
@@ -119,7 +121,7 @@ hide: false
 
 ---
 layout: image
-image: /questions.gif
+image: /pytania.jpg
 class: text-left
 hide: false
 

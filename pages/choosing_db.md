@@ -47,24 +47,6 @@
 
 ---
 
-# Sukces?
-
-<img src="fight.gif" style="width: 100%" v-click>
-
----
-
-<img src="einstein.jpeg" style="width: 100%" v-click>
-
----
-
-<img src="vaas.webp" style="width: 75%; margin: auto">
-
----
-
-# Szaleństwem jest robić wciąż to samo i oczekiwać różnych rezultatów ~ Albert Einstein
-
----
-
 # Coś innego?
 
 <img src="elastic.svg" style="width: 50%; margin: auto" v-click>
@@ -88,5 +70,5 @@
 </div>
 
 <div v-click="4">
-- wyszukiwanie działa wolno - O(log(n))
+- wyszukiwanie działa ok - O(log(n))
 </div>

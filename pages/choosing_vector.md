@@ -1,5 +1,5 @@
 
-# Vector Databases
+# Wektorowe Bazy danych
 
 <div v-click>
 - dodawanie działa szybko - O(1)
@@ -14,5 +14,5 @@
 </div>
 
 <div v-click="4">
-- wyszukiwanie działa ok - O(log(n))
+- wyszukiwanie działa ok - O(log(n)), <b>ale wraca nam like'a</b>
 </div>

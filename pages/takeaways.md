@@ -1,23 +1,24 @@
 
 # Key takeaways
-Use vector databases, when needed:
+
+Wybierz wektorową bazę danych, jeśli potrzebujesz:
 <div v-click>
 
-- similarity matching, 
+- szukania podobieństw, 
 
 </div>
 <div v-click="2">
 
-- data clustering,
+- grupowania
 </div>
 <div v-click="3"> 
 
-- constant time of adding and deleting elements,
+- stałego czasu dodawania i usuwania danych,
 
 </div>
 <div v-click="3"> 
 
-- and efficient searching on the live data. 
+- efektywnego przeszukiwania danych.
 
 </div>
 
