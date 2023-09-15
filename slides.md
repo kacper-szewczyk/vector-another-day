@@ -1,7 +1,7 @@
 ---
 # try also 'default' to start simple
 theme: seriph
-background: /kacper007.png
+background: /ChatBG.png
 # apply any windi css classes to the current slide
 class: "image"
 # https://sli.dev/custom/highlighters.html
@@ -10,7 +10,7 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## Vector another day
+  ## Jak stworzyć własny ChatGPT?
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -20,19 +20,19 @@ transition: slide-left
 css: unocss
 
 ---
+<div style="bottom: 16px; right: 16px; position: absolute">
 
+# Jak stworzyć własny ChatGPT?
 
-
+</div>
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
 
-
 ---
-layout: image-right
-class: text-left
-image: /judi.webp
-src: pages/mission.md
+layout: image-left
+image: /Kacper.jpg
+src: pages/about.md
 hide: false
 
 ---
@@ -40,24 +40,8 @@ hide: false
 ---
 layout: image-right
 class: text-left
-image: /connery.webp
-src: pages/postgre.md
-hide: false
-
----
-
----
-layout: center
-class: text-left
-src: pages/postgre_result.md
-hide: false
-
----
-
----
-layout: center
-class: text-left
-src: pages/intro_vector.md
+image: /tasks.jpeg
+src: pages/tasks.md
 hide: false
 
 ---
@@ -70,17 +54,35 @@ hide: false
 
 ---
 
+
 ---
-layout: two-cols
+layout: center
 class: text-left
-src: pages/vector_vs_relational.md
+src: pages/choosing_db.md
 hide: false
 
 ---
 
 ---
 layout: center
-src: pages/coding_part.md
+class: text-left
+src: pages/choosing_vector.md
+hide: false
+
+---
+
+---
+layout: two-cols
+class: text-left
+src: pages/vector_vs_nosql_vs_relational.md
+hide: false
+
+---
+
+---
+layout: center
+class: text-left
+src: pages/data_storage_vector.md
 hide: false
 
 ---
@@ -88,7 +90,7 @@ hide: false
 ---
 layout: image
 class: text-left
-image: skyfallq.jpg
+image: bg.jpg
 hide: false
 
 ---
@@ -100,7 +102,6 @@ src: pages/applications.md
 hide: false
 
 ---
-
 
 ---
 layout: image
@@ -118,18 +119,9 @@ hide: false
 
 ---
 
-
----
-layout: image-left
-image: /Kacper.jpg
-src: pages/about.md
-hide: false
-
----
-
 ---
 layout: image
-image: /questions.gif
+image: /pytania.jpg
 class: text-left
 hide: false
 
