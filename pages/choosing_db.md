@@ -29,7 +29,7 @@
 
 # Wynik
 
-<img src="fight.gif" style="width: 100%" v-click>
+<img src="/fight.gif" style="width: 100%" v-click>
 
 <div v-click="2">
 - wyszukiwanie działa szybciej - O(log(N))
@@ -49,7 +49,7 @@
 
 # Coś innego?
 
-<img src="elastic.svg" style="width: 50%; margin: auto" v-click>
+<img src="/elastic.svg" style="width: 50%; margin: auto" v-click>
 
 ---
 

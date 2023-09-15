@@ -1,5 +1,5 @@
 
-<img src="neo4j.jpg" style="width: 100%" v-click>
+<img src="/neo4j.jpg" style="width: 100%" v-click>
 
 ---
 

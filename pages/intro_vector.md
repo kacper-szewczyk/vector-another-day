@@ -3,7 +3,7 @@
 
 # Vector Databases
 
-<img src="bond-retirement.jpeg" style="width: 80%; margin: auto" v-click>
+<img src="/bond-retirement.jpeg" style="width: 80%; margin: auto" v-click>
 
 ---
 

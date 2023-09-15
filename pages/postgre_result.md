@@ -1,7 +1,7 @@
 
 # Result
 
-<img src="fight.gif" style="width: 100%" v-click>
+<img src="/fight.gif" style="width: 100%" v-click>
 
 <div v-click="2">
 - searching works faster
@@ -22,15 +22,15 @@
 
 # Success?
 
-<img src="fight.gif" style="width: 100%" v-click>
+<img src="/fight.gif" style="width: 100%" v-click>
 
 ---
 
-<img src="einstein.jpeg" style="width: 100%" v-click>
+<img src="/einstein.jpeg" style="width: 100%" v-click>
 
 ---
 
-<img src="vaas.webp" style="width: 75%; margin: auto">
+<img src="/vaas.webp" style="width: 75%; margin: auto">
 
 ---
 
@@ -41,6 +41,6 @@
 # Let's try something different
 
 
-<img src="elastic.svg" style="width: 50%; margin: auto" v-click>
+<img src="/elastic.svg" style="width: 50%; margin: auto" v-click>
 
 
