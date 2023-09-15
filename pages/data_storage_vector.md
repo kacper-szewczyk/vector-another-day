@@ -1,6 +1,6 @@
 # Jak działa wyszukiwanie?
 
-<img src="db-vector.png" style="width: 100%" v-click>
+<img src="/db-vector.png" style="width: 100%" v-click>
 
 
 ---

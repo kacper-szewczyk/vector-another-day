@@ -29,7 +29,7 @@ Używana jest do opisu średniej złożoności algorytmu - optymalny scenariusz.
 
 # $O$, $\Omega$ & $\Theta$
 
-<img src="theta.webp" alt="complexity graph" style="height: 600px">
+<img src="/theta.webp" alt="complexity graph" style="height: 600px">
 
 
 
