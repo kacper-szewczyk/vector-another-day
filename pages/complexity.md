@@ -11,7 +11,7 @@ Używana jest do opisu górnej granicy złożoności algorytmu - najgorszy możl
 
 <div v-click="2">
 
-## $\Omega$-Notation
+## Notacja $\Omega$
 
 Używana jest do opisu dolnej granicy złożoności algorytmu - najlepszy możliwy przypadek.
 
@@ -19,7 +19,7 @@ Używana jest do opisu dolnej granicy złożoności algorytmu - najlepszy możli
 
 <div v-click="3">
 
-## $\Theta$-Notation
+## Notacja $\Theta$
 
 Używana jest do opisu średniej złożoności algorytmu - optymalny scenariusz.
 

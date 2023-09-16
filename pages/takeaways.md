@@ -16,9 +16,9 @@ Wybierz wektorową bazę danych, jeśli potrzebujesz:
 - stałego czasu dodawania i usuwania danych,
 
 </div>
-<div v-click="3"> 
+<div v-click="4"> 
 
-- efektywnego przeszukiwania danych.
+- efektywnego przeszukiwania ogromnych zbiorów danych.
 
 </div>
 

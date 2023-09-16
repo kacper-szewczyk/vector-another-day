@@ -71,13 +71,6 @@ hide: false
 
 ---
 
----
-layout: two-cols
-class: text-left
-src: pages/vector_vs_nosql_vs_relational.md
-hide: false
-
----
 
 ---
 layout: center
@@ -86,6 +79,14 @@ src: pages/data_storage_vector.md
 hide: false
 
 ---
+
+---
+layout: two-cols
+class: text-left
+src: pages/vector_vs_nosql_vs_relational.md
+hide: false
+---
+
 
 ---
 layout: image
@@ -125,4 +126,11 @@ image: /pytania.jpg
 class: text-left
 hide: false
 
+---
+
+---
+layout: image-left
+image: /Kacper.jpg
+src: pages/about.md
+hide: false
 ---
