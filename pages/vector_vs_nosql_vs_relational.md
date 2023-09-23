@@ -1,44 +1,45 @@
 
-# Bazy relacyjne
+# Relational Databases
 
-<div style="margin-top: 16px">
+<div style="margin-top: 16px" v-click="1">
 
-### Dodawanie elementu
-Złożoność O(1) <spam style="font-weight: bold">+ czas na wygenerowanie indeksów</spam>
-
-</div>
-
-<div style="margin-top: 16px">
-
-### Wyszukiwanie
-Złożoność O(n) or O(log n) z indexem, ale zwraca dokładne wyniki
+### Insert
+Complexity O(1) <spam style="font-weight: bold">+ time to generate indexes</spam>
 
 </div>
-<div style="margin-top: 16px">
 
-### Usuwanie
-Złożoność O(n) lub O(log n) z indexem
+<div style="margin-top: 16px" v-click="2">
+
+### Search
+Complexity O(n) / O(log(n)) with index, but it's exact match
+
+</div>
+<div style="margin-top: 16px" v-click="3">
+
+
+### Removing
+Complexity O(n) / O(log(n)) with index
 </div>
 
 ::right::
 
-# Wektorowe bazy danych
+# Vector Databases
 
-<div style="margin-top: 16px">
+<div style="margin-top: 16px" v-click="1">
 
-### Dodawanie
-Złożoność O(1)
+### Insert
+Complexity O(1)
 
 </div>
 
-<div style="margin-top: 16px">
+<div style="margin-top: 16px" v-click="2">
 
-### Wyszukiwanie
-Złożoność O(log n), ale zwraca przybliżone wyniki
+### Search
+Complexity O(log(n)), returns approximate match
 </div>
 
-<div style="margin-top: 16px">
+<div style="margin-top: 16px" v-click="3">
 
-### Usuwanie
-Złożoność O(log n)
+### Removing
+Complexity O(log(n))
 </div>

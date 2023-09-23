@@ -1,20 +1,14 @@
-
-
-
-# Vector Databases
-
-<img src="/bond-retirement.jpeg" style="width: 80%; margin: auto" v-click>
-
----
-
 # Vector Databases
 Key features
 <div v-click>
-- retrieval and processing of high-dimensional vector data
+- data is stores as a high-dimensional vector
 </div>
 <div v-click="2">
-- enabling efficient analysis and manipulation of vector-based information
+- each vector is a representation of one parameter / feature of the data
 </div>
 <div v-click="3">
-- optimized storage
+- results are the best match from many features
+</div>
+<div v-click="4">
+- data is stored in optimized data structures
 </div>

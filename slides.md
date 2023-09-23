@@ -10,7 +10,7 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## Jak stworzyć własny ChatGPT?
+  ## Unleash the power of vector databases
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -22,7 +22,7 @@ css: unocss
 ---
 <div style="bottom: 16px; right: 16px; position: absolute">
 
-# Jak stworzyć własny ChatGPT?
+# Unleash the power of vector databases
 
 </div>
 <!--
@@ -30,52 +30,27 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
-layout: image-left
-image: /Kacper.jpg
-src: pages/about.md
-hide: false
-
----
-
----
 layout: image-right
 class: text-left
 image: /tasks.jpeg
-src: pages/tasks.md
+src: pages/intro_vector.md
 hide: false
 
 ---
+
+---
+layout: image
+class: text-left
+image: /db-vector.png
+hide: false
+
+---
+
 
 ---
 layout: center
 class: text-left
 src: pages/complexity.md
-hide: false
-
----
-
-
----
-layout: center
-class: text-left
-src: pages/choosing_db.md
-hide: false
-
----
-
----
-layout: center
-class: text-left
-src: pages/choosing_vector.md
-hide: false
-
----
-
-
----
-layout: center
-class: text-left
-src: pages/data_storage_vector.md
 hide: false
 
 ---
@@ -88,11 +63,11 @@ hide: false
 
 ---
 
-
 ---
-layout: image
+layout: image-right
 class: text-left
-image: bg.jpg
+image: /dots.gif
+src: pages/tasks.md
 hide: false
 
 ---
@@ -100,7 +75,16 @@ hide: false
 ---
 layout: center
 class: text-left
-src: pages/applications.md
+src: pages/coding_part.md
+hide: false
+
+---
+
+
+---
+layout: image
+class: text-left
+image: bg.jpg
 hide: false
 
 ---
@@ -122,16 +106,27 @@ hide: false
 ---
 
 ---
-layout: image
-image: /pytania.jpg
-class: text-left
-hide: false
-
----
-
----
-layout: image-left
-image: /Kacper.jpg
+layout: image-right
+image: /Kacper_small.jpg
 src: pages/about.md
 hide: false
+
+---
+
+---
+layout: image-right
+class: text-left
+image: /map-icons.webp
+src: pages/example.md
+hide: false
+
+---
+
+
+---
+layout: center
+class: text-left
+src: pages/applications.md
+hide: false
+
 ---

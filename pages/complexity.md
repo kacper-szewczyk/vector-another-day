@@ -1,35 +1,38 @@
-
 # $O$, $\Omega$ & $\Theta$
 
 <div v-click>
 
-## Notacja $O$
+## $O$-Notation
 
-Używana jest do opisu górnej granicy złożoności algorytmu - najgorszy możliwy przypadek.
+It is used to describe the upper bound of the complexity of an algorithm - the worst case scenario.
 
 </div>
 
 <div v-click="2">
 
-## Notacja $\Omega$
+## $\Omega$-Notation
 
-Używana jest do opisu dolnej granicy złożoności algorytmu - najlepszy możliwy przypadek.
+It is used to describe the lower bound of the complexity of an algorithm - the best case scenario.
 
 </div>
 
 <div v-click="3">
 
-## Notacja $\Theta$
+## $\Theta$-Notation
 
-Używana jest do opisu średniej złożoności algorytmu - optymalny scenariusz.
+It is used to describe the average complexity of an algorithm - the average case scenario.
 
 </div>
 
----
 
-# $O$, $\Omega$ & $\Theta$
+--- 
 
-<img src="/theta.webp" alt="complexity graph" style="height: 600px">
+# Examples
 
+<div v-click>
+- Bubble sort - O(n^2)
+</div>
 
-
+<div v-click="2">
+- Merge sort - O(n*log(n))
+</div>

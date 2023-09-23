@@ -1,24 +1,25 @@
 
 # Key takeaways
 
-Wybierz wektorową bazę danych, jeśli potrzebujesz:
+Choose vector databases when you need:
 <div v-click>
 
-- szukania podobieństw, 
+- similarity search, 
 
 </div>
 <div v-click="2">
 
-- grupowania
+- grouping similar data,
+
 </div>
 <div v-click="3"> 
 
-- stałego czasu dodawania i usuwania danych,
+- constant time insert and remove,
 
 </div>
 <div v-click="4"> 
 
-- efektywnego przeszukiwania ogromnych zbiorów danych.
+- effective search in huge datasets.
 
 </div>
 

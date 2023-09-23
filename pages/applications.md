@@ -1,38 +1,29 @@
 
-# Gdzie są używane bazy wektorowe?
+# Where vector database can be used?
 
 ---
-# Systemy rekomendacji
+# Recommendation systems
 
-Umożliwiając spersonalizowane rekomendacje oparte na podobieństwie lub filtrowaniu opartym na treści. 
-
----
-
-# Wyszukiwarki 
-
-Może to być przydatne przy budowaniu wyszukiwarek, które mogą znajdować podobne dokumenty, obrazy lub filmy, umożliwiając bardziej dokładne i trafne wyniki wyszukiwania.
+Enabling personalized recommendations based on similarity or content-based filtering.
 
 ---
 
-# Przetwarzanie języka naturalnego  (NLP)
+# Search engines
 
-Może to być korzystne dla zadań takich jak wyszukiwanie semantyczne, systemy odpowiadania na pytania lub analiza sentymentu.
+This can be useful for building search engines that can find similar documents, images, or videos, enabling more accurate and relevant search results.
 
 ---
 
-# Przetwarzanie obrazów i wideo 
+# Image and video processing
 
-Może to być przydatne przy budowaniu systemów rozpoznawania obrazów lub wideo, które mogą rozpoznawać podobne obrazy lub wideo.
-<div v-click>
+This can be useful for building image or video recognition systems that can recognize similar images or videos.
 
-# Wykrywanie anomalii 
+# Anomaly detection
 
-Może to być przydatne przy budowaniu systemów wykrywania oszustw lub systemów monitorowania, które mogą wykrywać anomalie w danych.
-
-</div>
+This can be useful for building fraud detection systems or monitoring systems that can detect anomalies in data.
 
 --- 
 
-# Clusterowanie i grupowanie
+# Clustering and grouping
 
-Pozwala to na efektywne algorytmy grupowania, które grupują podobne punkty danych, umożliwiając zadania takie jak segmentacja klientów, rozpoznawanie wzorców lub eksploracja danych.
+Allows for effective clustering algorithms that group similar data points, enabling tasks such as customer segmentation, pattern recognition, or data exploration.
