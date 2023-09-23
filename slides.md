@@ -85,6 +85,7 @@ layout: two-cols
 class: text-left
 src: pages/vector_vs_nosql_vs_relational.md
 hide: false
+
 ---
 
 
