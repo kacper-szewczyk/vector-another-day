@@ -1,7 +1,7 @@
 ---
 # try also 'default' to start simple
 theme: seriph
-background: /ChatBG.png
+background: /dalle-hypercube.png
 # apply any windi css classes to the current slide
 class: "image"
 # https://sli.dev/custom/highlighters.html
@@ -20,11 +20,8 @@ transition: slide-left
 css: unocss
 
 ---
-<div style="bottom: 16px; right: 16px; position: absolute">
 
 # Unleash the power of vector databases
-
-</div>
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
