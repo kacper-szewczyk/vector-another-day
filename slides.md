@@ -111,6 +111,14 @@ hide: false
 ---
 
 ---
+layout: center
+src: pages/appendix.md
+hide: false
+
+---
+
+
+---
 layout: image-right
 class: text-left
 image: /map-icons.webp
