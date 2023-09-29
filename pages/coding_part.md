@@ -73,4 +73,4 @@ const results = await index.query({
 ---
 
 
-<img src="/batman-question.png" style="width: 60%; padding: 32px; marging-top: 32px;">
+<img src="/batman-question.png" style="width:100%; padding: 32px; marging-top: 32px;">

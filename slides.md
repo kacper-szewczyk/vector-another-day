@@ -81,14 +81,6 @@ hide: false
 ---
 layout: image
 class: text-left
-image: bg.jpg
-hide: false
-
----
-
----
-layout: image
-class: text-left
 src: pages/takeaways.md
 hide: false
 
